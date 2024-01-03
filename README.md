@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samarth Gupta
 - 👀 I’m interested in Front end development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Front End Development (HTML, CSS, JS).
+- 💞️ I’m looking to collaborate on Front End Development (HTML, CSS, JS, React).
 - 📫 My Gamil Id is samarthgupta2552000@gmail.com
 
 <!---
